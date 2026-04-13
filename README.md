@@ -1,4 +1,5 @@
 **_NARUTO_EFFECT_**
+----------------------------------------------
 Simple hand tracking with Naruto/Sasuke powers.
 
 **How to use:**
